@@ -1,7 +1,3 @@
-Altium Designer Pick and Place Locations
-C:\Users\pasil\Nextcloud\Projects\C-Portify\C-Portify\Project Outputs for C-Portify\Pick Place\Pick Place for C-Portify R1.txt
-
-========================================================================================================================
 File Design Information:
 
 Date:       01/01/26
@@ -14,3 +10,4 @@ Designator Case/Package Center-X(mm) Center-Y(mm) Ref-X(mm) Ref-Y(mm) Pad-X(mm) 
 R2         0603         12.9700mm    12.9000mm    12.9700mm 12.9000mm 12.9700mm 12.1000mm TopLayer 90       
 R1         0603         11.3700mm    12.9000mm    11.3700mm 12.9000mm 11.3700mm 12.1000mm TopLayer 90       
 J1         12-SMD       8.1700mm     4.1400mm     8.1700mm  1.7100mm  3.5600mm  1.4600mm  TopLayer 270      
+
