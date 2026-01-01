@@ -2,7 +2,7 @@
 
 C-Portify is a USB-B to USB-C conversion kit.
 <center>
-    <img src="images/montage_800x.jpg">
+    <img src="images/montage_800x.png">
 </center>
 Order from PCBway or download the gerber files and order from your preferred PCB fab.
 ### Licence
