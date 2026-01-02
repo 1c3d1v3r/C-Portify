@@ -5,7 +5,7 @@ C-Portify is a USB-B to USB-C conversion kit. It can replace a through hole USB-
     <img src="images/montage_800x.jpg">
 </center>
 Order from PCBway or download the gerber files and order from your preferred PCB fab.<br/>
-Links to PCB way: <a href="https://www.pcbway.com/project/shareproject/C_Portify_USB_B_to_USB_C_conversion_kit_7428d869.html">main PCB</a> & <a href="https://www.pcbway.com/project/shareproject/Front_panel_for_C_Portify_d39ce92c.html">fron panel PCB</a>.<br/>
+Links to PCB way: <a href="https://www.pcbway.com/project/shareproject/C_Portify_USB_B_to_USB_C_conversion_kit_7428d869.html">main PCB</a> & <a href="https://www.pcbway.com/project/shareproject/Front_panel_for_C_Portify_d39ce92c.html">front panel PCB</a>.<br/>
 Notice the main PCB is standard 1.6mm thick but the front panel is 1.2 mm thick. 
 
 ## Assembly
