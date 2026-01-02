@@ -9,7 +9,7 @@ Links to PCB way: <a href="https://www.pcbway.com/project/shareproject/C_Portify
 Notice the main PCB is standard 1.6mm thick but the front panel is 1.2 mm thick. 
 
 ## Assembly
-Solder the connector J1 and resistors R1 & R2 into place. Keep the fron panel in place and solder it to the main PCB at the two bottom pads. Solder the front panel single top pad to the connector.
+Solder the connector J1 and resistors R1 & R2 into place. Keep the front panel vertically in place and solder one of the bottom side pads to the main PCB. Check alignment and fix if needed. Solder the other side pad to the main PCB and the single top pad to the top of the connector.
 
 ## Installation
 The C-Portify has two arcs on the sides. They can be left as such or they can be cut away. The PCB was first designed with castellated holes but it increased production costs.
