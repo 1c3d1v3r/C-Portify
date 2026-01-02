@@ -11,6 +11,10 @@ Notice the main PCB is standard 1.6mm thick but the front panel is 1.2 mm thick.
 ## Assembly
 Solder the connector J1 and resistors R1 & R2 into place. Keep the fron panel in place and solder it to the main PCB at the two bottom pads. Solder the front panel single top pad to the connector.
 
+## Installation
+The C-Portify has two arcs on the sides. They can be left as such or they can be cut away. The PCB was first designed with castellated holes but it increased production costs.
+Desolder the USB-B connector and clean the PCB holes. Align C-portify holes with the device PCB holes. Solder only one of the side holes. Then you can verify placement before soldering the rest of the holes. Use a piece of wire or a cut through hole component pin for the four smaller holes.
+
 ## Buy C-Portify
 I have some extra PCBs available from my first order. I can sell DIY kits with loose parts for 10€ for 3 kits. Assembled (parts and front panel soldered) kits for 15€ for 3pcs. Only EU area at the moment. Shipping via priority letter. Shipping fees added.
 Email me at 1c3d1v3r [at] gmail [dot] com if interested.
